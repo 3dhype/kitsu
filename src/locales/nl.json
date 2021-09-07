@@ -597,7 +597,7 @@
                 "errorImportingShots": "Er is een fout opgetreden bij het importeren van je opnamen. De productie is echter gemaakt!",
                 "explaination_date": "Deze data zijn nodig om je planning op te zetten.",
                 "explaination_type": "Kies je voor TV Show, dan wordt de productie opgesplitst in afleveringen.",
-                "explaination_video": "Deze instellingen worden gebruikt om de geÃ¼ploade video's te normaliseren.",
+                "explaination_video": "Deze instellingen worden gebruikt om de geuploade video's te normaliseren.",
                 "give_a_name": "Geef je productie een naam",
                 "give_a_name_description": "Begin met je productie een goede naam te geven.",
                 "import_assets_button": "Importeer assets",
@@ -614,7 +614,7 @@
                 "production_settings": "Je productieparameters instellen",
                 "production_settings_description": "Bepaal je productietype, het formaat van je videovoorbeelden en plan je productie.",
                 "select_asset_task_type": "Selecteer asset taaktype",
-                "select_asset_task_type_description": "Deze taaktypen definiÃ«ren het stappenplan van je assets.",
+                "select_asset_task_type_description": "Deze taaktypen definieren het stappenplan van je assets.",
                 "select_shot_task_type": "Selecteer opname taaktype",
                 "select_shot_task_type_description": "Deze taaktypen bepalen het stappenplan van je opnamen.",
                 "select_task_status": "Selecteer taakstatus",
@@ -639,7 +639,7 @@
             },
             "change_password": {
                 "button": "Wijzig wachtwoord",
-                "error": "Er is een fout opgetreden bij het wijzigen van het wachtwoord. Gelieve je huidige wachtwoord te verifiÃ«ren",
+                "error": "Er is een fout opgetreden bij het wijzigen van het wachtwoord. Gelieve je huidige wachtwoord te verifieren",
                 "success": "Je wachtwoord is succesvol gewijzigd!",
                 "unvalid": "Je nieuwe wachtwoordbevestiging komt niet overeen of je wachtwoord is te kort (minimaal 7 tekens wordt verwacht)."
             },
