@@ -33,15 +33,15 @@
             "only_current_episode": "Alleen huidige aflevering"
         },
         "asset_types": {
-            "all_asset_types": "Alle asset types",
+            "all_asset_types": "Alle assettypes",
             "create_error": "Er is een fout opgetreden bij het saven van de asset type. Weet je zeker dat er geen asset type bestaat met dezelfde naam?",
             "delete_text": "Weet u zeker dat u {name} wilt verwijderen uit uw database?",
             "delete_error": "Er is een fout opgetreden bij het verwijderen van dit asset-type. Er zijn waarschijnlijk assets aan verbonden. Weet u zeker dat er geen assets aan dit asset-type verbonden zijn?",
             "edit_title": "Asset-type aanpassen",
             "new_asset_type": "Asset-type toevoegen",
-            "number": "asset type | asset types",
-            "title": "Asset Types",
-            "production_title": "Asset Types Statistieken",
+            "number": "asset type | assettypes",
+            "title": "Assettypes",
+            "production_title": "Assettypes Statistieken",
             "fields": {
                 "name": "Naam"
             }
@@ -52,7 +52,7 @@
             "empty": "Lege casting",
             "label": "Label",
             "picture_mode": "Wissel naar galerij modus",
-            "text_mode": "Wissel naar text modus",
+            "text_mode": "Wissel naar tekst modus",
             "title": "Analyze",
             "options": {
                 "fixed": "opgelost",
@@ -111,7 +111,7 @@
         "entities": {
             "build_filter": {
                 "asset_type": "Asset type",
-                "all_types": "Alle asset types",
+                "all_types": "Alle assettypes",
                 "assignation": "Toewijzing",
                 "assignation_exists_for": "Toewijzing bestaat voor",
                 "assigned_to": "Toegewezen aan",
@@ -408,7 +408,7 @@
             },
             "role": {
                 "admin": "Studio Manager",
-                "client": "Klant",
+                "client": "Cliënt",
                 "manager": "Supervisor",
                 "user": "Artist",
                 "undefined": "ongedefinieerd",
@@ -430,8 +430,8 @@
             "building": "Maken...",
             "client_playlist": "Klant Playlist",
             "create_for_selection": "Genereer een playlist voor shot selectie",
-            "create_title": "Playlist aanmaken",
-            "created_at": "Aangemaakt op:",
+            "create_title": "Creëer playlist",
+            "created_at": "Gecreëerd op:",
             "delete_text": "Weet je zeker dat je {name} wilt verwijderen uit de database?",
             "delete_error": "Er is een fout opgetreden tijdens het verwijderen van de playlist.",
             "edit_error": "Er is een fout opgetreden tijdens het opslaan van de playlist.",
@@ -480,11 +480,11 @@
                 "entity_list": "Toon/Verberg item lijst",
                 "fullscreen": "Volledig scherm",
                 "next_frame": "Volgend frame",
-                "next_shot": "Volgende item",
+                "next_shot": "Volgend item",
                 "pause": "Pauzeer",
                 "play": "Afspelen",
                 "previous_frame": "Vorig frame",
-                "previous_shot": "Volgend item",
+                "previous_shot": "Vorig item",
                 "save_playlist": "Afspeellijst opslaan",
                 "speed": "Verander snelheid",
                 "split_screen": "Scherm splitsen",
@@ -581,8 +581,8 @@
             },
             "creation": {
                 "add_assets": "Assets toevoegen (optioneel)",
-                "add_asset_types": "Asset types toevoegen",
-                "add_asset_types_description": "Assets types toevoegen in je project",
+                "add_asset_types": "Assettypes toevoegen",
+                "add_asset_types_description": "Assettypes toevoegen in je project",
                 "add_assets_button": "Assets toevoegen",
                 "add_assets_description": "Assets toevoegen of importeren in je productie",
                 "add_shots": "Opnamen toevoegen (optioneel)",
@@ -597,7 +597,7 @@
                 "errorImportingShots": "Er is een fout opgetreden bij het importeren van je opnamen. De productie is echter gemaakt!",
                 "explaination_date": "Deze data zijn nodig om je planning op te zetten.",
                 "explaination_type": "Kies je voor TV Show, dan wordt de productie opgesplitst in afleveringen.",
-                "explaination_video": "Deze instellingen worden gebruikt om de geuploade video's te normaliseren.",
+                "explaination_video": "Deze instellingen worden gebruikt om de geüploade video's te normaliseren.",
                 "give_a_name": "Geef je productie een naam",
                 "give_a_name_description": "Begin met je productie een goede naam te geven.",
                 "import_assets_button": "Importeer assets",
@@ -612,9 +612,9 @@
                 "placeholder_resolution1": "1920",
                 "placeholder_resolution2": "1080",
                 "production_settings": "Je productieparameters instellen",
-                "production_settings_description": "Bepaal je productietype, het formaat van je video preview en plan je productie.",
+                "production_settings_description": "Bepaal je productietype, het formaat van je videopreviews en plan je productie.",
                 "select_asset_task_type": "Selecteer asset taaktype",
-                "select_asset_task_type_description": "Deze taaktypen definieren het stappenplan van je assets.",
+                "select_asset_task_type_description": "Deze taaktypen definiëren het stappenplan van je assets.",
                 "select_shot_task_type": "Selecteer opname taaktype",
                 "select_shot_task_type_description": "Deze taaktypen bepalen het stappenplan van je opnamen.",
                 "select_task_status": "Selecteer taakstatus",
@@ -639,7 +639,7 @@
             },
             "change_password": {
                 "button": "Wijzig wachtwoord",
-                "error": "Er is een fout opgetreden bij het wijzigen van het wachtwoord. Gelieve je huidige wachtwoord te verifieren",
+                "error": "Er is een fout opgetreden bij het wijzigen van het wachtwoord. Gelieve je huidige wachtwoord te verifiëren",
                 "success": "Je wachtwoord is succesvol gewijzigd!",
                 "unvalid": "Je nieuwe wachtwoordbevestiging komt niet overeen of je wachtwoord is te kort (minimaal 7 tekens wordt verwacht)."
             },
@@ -724,8 +724,8 @@
             }
         },
         "schedule": {
-            "title": "Schema",
-            "title_main": "Hoofdschema",
+            "title": "Planning",
+            "title_main": "Algemene planning",
             "overall_man_days": "Mandagen",
             "md": "md",
             "zoom_level": "Zoomniveau",
@@ -755,7 +755,7 @@
         },
         "shots": {
             "casting": "Opname verschijning",
-            "creation_explaination": "Om opnamen toe te voegen, moet je eerst een aflevering en een sequentie maken. Typ een afleveringsnaam onderaan de linkerkolom en klik vervolgens op toevoegen om een â€‹â€‹nieuwe aflevering te maken. Selecteer deze aflevering en herhaal dezelfde bewerking voor de sequentie. Selecteer ten slotte een sequentie en typ een opnamenaam in het veld onderaan de rechterkolom. Klik op de knop toevoegen hieronder. Je eerste opname is gemaakt. Je kunt er nu nog veel meer toevoegen! Als het geen tv-programma is, moet je direct een sequentie maken.",
+            "creation_explaination": "Om opnamen toe te voegen, moet je eerst een aflevering en een sequentie maken. Typ een afleveringsnaam onderaan de linkerkolom en klik vervolgens op toevoegen om een ​​nieuwe aflevering te maken. Selecteer deze aflevering en herhaal dezelfde bewerking voor de sequentie. Selecteer ten slotte een sequentie en typ een opnamenaam in het veld onderaan de rechterkolom. Klik op de knop toevoegen hieronder. Je eerste opname is gemaakt. Je kunt er nu nog veel meer toevoegen! Als het geen tv-programma is, moet je direct een sequentie maken.",
             "delete_text": "Weet je zeker dat je {name} uit de database wilt verwijderen?",
             "delete_error": "Er is een fout opgetreden bij het verwijderen van deze opname. Waarschijnlijk zijn er gegevens aan gekoppeld. Weet je zeker dat er geen taak aan deze opname is gekoppeld?",
             "edit_success": "Opname {name} succesvol bewerkt.",
@@ -814,7 +814,7 @@
         "tasks": {
             "add_preview": "Preview toevoegen",
             "add_preview_error": "Een fout is opgetreden tijdens het toevoegen van een preview.",
-            "assign": "Wijs Ã©Ã©n taak toe aan: | Wijs {nbSelectedTasks} taken toe aan:",
+            "assign": "Wijs één taak toe aan: | Wijs {nbSelectedTasks} taken toe aan:",
             "back_to_list": "terug naar lijst",
             "bigger": "Taakpaneel breder",
             "change_status_to": "Wijzig taakstatus in:",
@@ -839,7 +839,7 @@
             "delete_comment_error": "Er is een fout opgetreden bij het verwijderen van de opmerking.",
             "delete_for_selection": "Verwijder geselecteerde taken:",
             "delete_preview": "Weet je zeker dat je dit preview wilt verwijderen?",
-            "delete_preview_error": "Er is een fout opgetreden bij het verwijderen van het preview.",
+            "delete_preview_error": "Er is een fout opgetreden bij het verwijderen van de preview.",
             "edit_comment": "Reactie bewerken",
             "done": "Voltooid",
             "download_pdf_file": "Download .{extension} bestand",
